@@ -1,7 +1,11 @@
+#documents,images, etc
 *.pdf
 *.webp
 *.html
 *.png
+#data
 *.tar
 *.csv
 *.json
+#version control
+*ipynb_checkpoints
