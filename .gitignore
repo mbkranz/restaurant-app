@@ -9,3 +9,6 @@
 *.json
 #version control
 *ipynb_checkpoints
+
+#GitMind 
+*.htm
