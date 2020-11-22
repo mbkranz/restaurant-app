@@ -7,8 +7,12 @@
 *.tar
 *.csv
 *.json
+*.gpickle
+*.pkl
 #version control
 *ipynb_checkpoints
 
 #GitMind 
 *.htm
+
+
